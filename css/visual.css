@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1{
+    color: #3d3d3d;
+    background-color: #e1edf2;
+}
+h2{
+    border-bottom: 2px solid #0a0a0a;
+}
+figure{
+    text-align: center;
+    background-color: whitesmoke;
+    color: lightgrey;
+}
